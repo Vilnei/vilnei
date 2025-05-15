@@ -20,7 +20,9 @@
   # E aqui estão os meus Contatos.
 <div style="display: inline">
   &nbsp; &nbsp;<img width='180' src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> &nbsp; &nbsp;
-  &nbsp; &nbsp;<img width='135' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> &nbsp; &nbsp;
-    
+  (64) 9 9609-6000
 </div>
-
+<div style="display: inline">
+   &nbsp; &nbsp;<img width='135' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> &nbsp; &nbsp;
+   vilneimartins@gmail.com
+</div>
