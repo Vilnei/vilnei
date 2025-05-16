@@ -1,4 +1,4 @@
-# Seja muito bem vindo, abaixo temos um pouco mais sobre min.
+# Seja muito bem vindo
 - 
 - 
 - 
